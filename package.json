@@ -1,0 +1,34 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Repositorio do curso de node da HCode",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gardium/cursonode.git"
+  },
+  "keywords": [
+    "nodeJs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Edgard Araujo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gardium/cursonode/issues"
+  },
+  "homepage": "https://github.com/Gardium/cursonode#readme"
+}
